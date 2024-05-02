@@ -4,7 +4,9 @@ table, th, td{
 table{
     border-collapse:collapse;
 }
-
+tr:hover{
+  background-color:#abd4e94f;
+}
 table {
     border-collapse: collapse;
     width: 100%;
@@ -15,7 +17,7 @@ body {
  
 body {
     font-family:serif;
-    font-size: 17pt;
+    font-size: 19pt;
     line-height:1.5;
     text-align: justify;
   }
@@ -27,5 +29,6 @@ body {
 a{
   color: #053971;
 } 
+
 
 
